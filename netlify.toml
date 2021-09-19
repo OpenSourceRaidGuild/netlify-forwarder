@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/*"
   to = "https://osrg.t3.gg/:splat"
-  status = 200
+  status = 301
   force = true
  
